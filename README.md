@@ -132,7 +132,7 @@ Insights & Recommendations
 
 ## Dashboard Preview
 
-> *(Insert `03_Dashboard.png` here after uploading the repository to GitHub.)*
+> ![Financial Planning Dashboard](CS01_Dashboard.png)
 
 ---
 
