@@ -154,6 +154,6 @@ This project is part of my FP&A Portfolio, a collection of consulting-style fina
 
 Aspiring FP&A & Financial Analyst
 
-LinkedIn:*https://www.linkedin.com/in/apurvi-bajpai/
+LinkedIn:*https://www.linkedin.com/in/apurvi-bajpai/*
 
 GitHub: *https://github.com/apurvibajpai7*
